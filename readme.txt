@@ -6,3 +6,5 @@ git add 3
 Git is free software distributed under the GPL.
 git add 4
 Git has a mutable index called stage.
+git add 5
+Git tracks changes.
