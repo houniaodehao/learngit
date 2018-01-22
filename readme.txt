@@ -12,4 +12,8 @@ git add 6
 Git tracks changes of files.
 this is wangkai test first version,thank you!
 hahaha... sccessfull...
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
