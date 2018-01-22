@@ -11,3 +11,4 @@ Git tracks changes.
 git add 6
 Git tracks changes of files.
 this is wangkai test first version,thank you!
+hahaha... sccessfull...
