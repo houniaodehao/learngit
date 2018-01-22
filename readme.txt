@@ -13,4 +13,4 @@ Git tracks changes of files.
 this is wangkai test first version,thank you!
 hahaha... sccessfull...
 Creating a new branch is quick and simple.
-add merge fenzhi guanli celue
+add merge fenzhi management celue
