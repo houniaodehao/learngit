@@ -8,4 +8,5 @@ git add 4
 Git has a mutable index called stage.
 git add 5
 Git tracks changes.
+git add 6
 Git tracks changes of files.
